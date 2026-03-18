@@ -23,8 +23,7 @@ with st.sidebar:
     st.markdown("---")
     st.markdown("💡 **Model:** Gradient Boosting")
     st.markdown("📊 **Accuracy:** ~66%")
-    st.markdown("👨‍💻 **Developer:** [ชื่อของคุณ]") # เปลี่ยนเป็นชื่อคุณได้เลย
-
+    
 # ----------------------------------------
 # 3. ส่วนหัวของหน้าหลัก (Header)
 # ----------------------------------------
