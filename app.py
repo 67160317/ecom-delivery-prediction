@@ -22,7 +22,7 @@ with st.sidebar:
     st.info("🎯 **เป้าหมาย:**\nนำ Machine Learning มาวิเคราะห์ปัจจัยต่างๆ เพื่อคาดการณ์ความเสี่ยงที่สินค้าจะจัดส่งล่าช้า")
     st.markdown("---")
     st.markdown("💡 **Model:** Gradient Boosting")
-    st.markdown("📊 **Accuracy:** ~66%")
+    st.markdown("📊 **Accuracy:** ~68%")
     
 # ----------------------------------------
 # 3. ส่วนหัวของหน้าหลัก (Header)
